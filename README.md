@@ -8,8 +8,6 @@ Welcome to my GitHub profile — nice to meet you!
 - ⚡ Fun fact: I can listen to the same good song on repeat all day without getting bored 🎶
 
 Thanks for visiting my profile! 🚀
-
-- ⚡ Fun fact: ...
 -->
 
 ## 🌐Socials
