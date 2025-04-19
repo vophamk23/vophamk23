@@ -1,18 +1,18 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="left" width="410" height="310" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="450" height="310" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Vo Pham!</h1>
 <p align="center">
   <h3 align="center">CE student at HCMUT, VN | Tech & innovation enthusiast</h3>
 </p> 
 
-- 🎓 I'm a student at: [Ho Chi Minh city University of Technology](https://hcmut.edu.vn/) (HCMUT).
+- 🎓 I'm a student at: [Ho Chi Minh city University of Technology](https://hcmut.edu.vn/) (HCMUT) - VNUHCM.
 
 - 💻 Major: Computer Engineering
 
 - 🌱 Beyond coding, I’m into music, movies, and exploring local coffee shops.
   
-- 📫 Feel free to drop me a message via email: congvolv1@gmail.com
+- 📫 Reach out to me via email: congvolv1@gmail.com
   
 <br />
 
