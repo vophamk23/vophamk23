@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="left" width="400" height="270" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Vo Pham!</h1>
+<img align="left" width="400" height="280" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="center">Hi there👋, I'm Vo Pham !</h1>
 <p align="center">
   <h3 align="center">CE student at HCMUT | Tech & innovation enthusiast</h3>
 </p> 
