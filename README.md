@@ -22,38 +22,38 @@
 
 <p align="center">
   <a href="https://www.facebook.com/vophajm" alt="Facebook">
-    <img src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=80&id=118568&format=png&color=000000" />
   </a> 
     <a href="https://www.instagram.com/vopham.0104/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=Xy10Jcu1L2Su&format=png&color=000000"/>
   </a>
     <a href="https://www.threads.net/@vopham.0104?xmt=AQGzfwUDxPZ6f1nR5cJCEY8E9oS1Vh9rlztJWycVzGXSXZk"_blank">
-    <img src="https://img.icons8.com/?size=100&id=ikThuZ5WmSYz&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=ikThuZ5WmSYz&format=png&color=000000"/>
   </a>
   <a href="https://www.linkedin.com/in/vo-pham-78588631b/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000"/>
   </a>
   <a href="https://github.com/vophamk23" alt="Github">
-    <img src="https://img.icons8.com/?size=100&id=4Z2nCrz5iPY2&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=4Z2nCrz5iPY2&format=png&color=000000"/>
   </a> 
   <a href="https://www.youtube.com/@vopham9020" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/?size=100&id=64159&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=64159&format=png&color=000000"/>
   </a>
   <a href="https://www.tiktok.com/@vophajmn">
-    <img src="https://img.icons8.com/?size=100&id=123922&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=123922&format=png&color=000000"/>
   </a>
   <a href="mailto:congvolv1@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=80&id=qyRpAggnV0zH&format=png&color=000000"/>
   </a>
 </p>
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/?size=60&id=0OQR1FYCuA9f&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=iEBcQcM9rnZ9&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=6kZdxe7t8OL1&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=v6rX9QRN4DvW&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000"/>
 
   
 # 💻Tech Stack
