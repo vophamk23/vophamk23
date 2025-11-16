@@ -1,10 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="left" width="400" height="280" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+
+<img align="left" width="400" height="280" src="https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0" />
+
+
 <h1 align="center">Hi there👋, I'm Vo Pham !</h1>
 <p align="center">
-  <h3 align="center">CE student at HCMUT | Tech & innovation enthusiast</h3>
-</p> 
+<h3 align="center">CE student at HCMUT | Tech & innovation enthusiast</h3>
+</p>
 
 - 🎓 I'm a student at: [Ho Chi Minh city University of Technology](https://hcmut.edu.vn/) (HCMUT) - VNUHCM.
 
