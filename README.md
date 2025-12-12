@@ -30,7 +30,7 @@
     <a href="https://www.threads.net/@vopham.0104?xmt=AQGzfwUDxPZ6f1nR5cJCEY8E9oS1Vh9rlztJWycVzGXSXZk"_blank">
     <img src="https://img.icons8.com/?size=80&id=ikThuZ5WmSYz&format=png&color=000000"/>
   </a>
-  <a href="https://www.linkedin.com/in/vo-pham-78588631b/" target="_blank">
+  <a href="https://www.linkedin.com/in/v%C3%B5-ph%E1%BA%A1m-78588631b/" target="_blank">
     <img src="https://img.icons8.com/?size=80&id=13930&format=png&color=000000"/>
   </a>
   <a href="https://github.com/vophamk23" alt="Github">
