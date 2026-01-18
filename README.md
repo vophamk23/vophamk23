@@ -7,7 +7,6 @@
 </p>
 
 ## 📬 Contact Information
-
 <table>
   <tr>
     <td width="42%">
@@ -22,11 +21,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 ## 🌐 Socials
 
@@ -56,7 +50,6 @@
     <img src="https://img.icons8.com/?size=80&id=qyRpAggnV0zH&format=png&color=000000"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
     <img src="https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg" alt="Gitter"/>
@@ -78,10 +71,7 @@
   <img src="https://img.icons8.com/?size=60&id=v6rX9QRN4DvW&format=png&color=000000" alt="Verilog"/>
   <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="Git"/>
   <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
-
 </p>
-
-
 
 ## 💻 Tech Stack
 
@@ -129,8 +119,6 @@
 **📝 Documentation:**  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-
-
 ## 📊 GitHub Stats
 
 <table style="width:100%;">
@@ -149,9 +137,7 @@
 
 
 ## ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/vophamk23">vophamk23</a> | Thanks for visiting! 😊</i>
