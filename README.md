@@ -87,15 +87,19 @@
 ![UART](https://img.shields.io/badge/UART-FF6B6B?style=for-the-badge&logo=serial&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge&logo=i2c&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-2196F3?style=for-the-badge&logo=spi&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN-FF9800?style=for-the-badge&logo=canbus&logoColor=white)
+![USB](https://img.shields.io/badge/USB-3F51B5?style=for-the-badge&logo=usb&logoColor=white)
+![Ethernet](https://img.shields.io/badge/Ethernet-00897B?style=for-the-badge&logo=ethernet&logoColor=white)
+![RS485](https://img.shields.io/badge/RS485-E91E63?style=for-the-badge&logo=serial&logoColor=white)
 
 **💾 Programming Languages - Hardware Description Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-2C5F2D?style=for-the-badge&logo=v&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **🌐 Web Technologies:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -117,8 +121,6 @@
 ![Scilab](https://img.shields.io/badge/Scilab-003B57?style=for-the-badge&logo=scilab&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-
 
 
 ## 📊 GitHub Stats
