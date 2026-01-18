@@ -70,8 +70,13 @@
 ![UART](https://img.shields.io/badge/UART-FF6B6B?style=for-the-badge&logo=serial&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge&logo=i2c&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-2196F3?style=for-the-badge&logo=spi&logoColor=white)
-
-
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice_for_TI-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
 
