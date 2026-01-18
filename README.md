@@ -140,7 +140,7 @@
 </table>
 
 
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
     alt="dev" 
@@ -148,29 +148,36 @@
   />
 </div>
 
-<br/>
+<br/> -->
 <!-- <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500"> -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Inspiration%20Corner&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33"/>
+## 💭 Quote of the Day
 
-### ✨ Random Developer Wisdom
+<table>
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vophamk23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vophamk23?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/vophamk23">
-    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Vo%20Pham-blue?style=for-the-badge" alt="Made by Vo Pham"/>
-  </a>
-</p>
+---
 
 <p align="center">
-  <sub>⭐ If you found this helpful, consider giving it a star!</sub>
+  <i>⚡ Crafted with passion by <a href="https://github.com/vophamk23">Vo Pham</a></i>
+  <br>
+  <i>🚀 Computer Engineering @ HCMUT | Embedded Systems Enthusiast</i>
+  <br>
+  <sub>Thanks for stopping by! Feel free to connect 😊</sub>
 </p>
