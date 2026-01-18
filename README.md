@@ -156,9 +156,6 @@
 <div align="center">
 
 ## 💡 Developer's Daily Dose of Wisdom
-
-<details open>
-<summary><b>🎲 Click to see different quote styles</b></summary>
 <br>
 
 **Dark Theme:**
