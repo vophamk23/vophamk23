@@ -17,8 +17,9 @@
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtcjJncG5wMjd5NDh1MWVkaG9oM2ZkMW4zcnBqcHl0N3NzeGczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9KU2KmTwzptMD6/giphy.gif"
     alt="Electronics"
-    width="350"
+    width="250"
     align="left"
+    hspace="20"
   />
 
   <div align="left">
