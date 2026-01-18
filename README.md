@@ -12,6 +12,8 @@
   <img width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 </p> -->
 
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
+
 ## 📬 Contact Information
 
 <p align="center">
