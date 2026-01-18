@@ -163,7 +163,7 @@
 </details>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center"> -->
   
 ### 🌐 Connect With Me
 <p>
