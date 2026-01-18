@@ -101,3 +101,56 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
+
+
+
+
+
+
+
+## 💼 Skills
+<p align="center">
+  <img src="https://img.icons8.com/?size=60&id=0OQR1FYCuA9f&format=png&color=000000" alt="C"/>
+  <img src="https://img.icons8.com/?size=60&id=40669&format=png&color=000000" alt="C++"/>
+  <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="Python"/>
+  <img src="https://img.icons8.com/?size=60&id=108784&format=png&color=000000" alt="JavaScript"/>
+  <img src="https://img.icons8.com/?size=60&id=20909&format=png&color=000000" alt="HTML"/>
+  <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="CSS"/>
+  <img src="https://img.icons8.com/?size=60&id=iEBcQcM9rnZ9&format=png&color=000000" alt="Assembly"/>
+  <img src="https://img.icons8.com/?size=60&id=6kZdxe7t8OL1&format=png&color=000000" alt="VHDL"/>
+  <img src="https://img.icons8.com/?size=60&id=v6rX9QRN4DvW&format=png&color=000000" alt="Verilog"/>
+  <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="Git"/>
+  <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
+  <img src="https://img.icons8.com/?size=60&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Arduino"/>
+  <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" alt="MATLAB"/>
+</p>
+
+# 💻 Tech Stack
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2C5F2D?style=for-the-badge&logo=v&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proteus](https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge&logo=proteus&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice_for_TI-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-003B57?style=for-the-badge&logo=scilab&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+![UART](https://img.shields.io/badge/UART-FF6B6B?style=for-the-badge&logo=serial&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge&logo=i2c&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-2196F3?style=for-the-badge&logo=spi&logoColor=white)
