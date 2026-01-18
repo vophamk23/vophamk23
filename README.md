@@ -155,22 +155,49 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Inspiration%20Corner&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33"/>
+## 💡 Developer's Daily Dose of Wisdom
 
-### ✨ Random Developer Wisdom
+<details open>
+<summary><b>🎲 Click to see different quote styles</b></summary>
+<br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+**Dark Theme:**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dark Quote" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+**Radical Theme:**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Radical Quote" />
+
+**Gruvbox Theme:**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Gruvbox Quote" />
+
+</details>
 
 </div>
 
-<p align="center">
+<br>
+
+<div align="center">
+  
+### 🌐 Connect With Me
+
+<p>
   <a href="https://github.com/vophamk23">
-    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Vo%20Pham-blue?style=for-the-badge" alt="Made by Vo Pham"/>
+    <img src="https://img.shields.io/github/followers/vophamk23?label=Follow%20on%20GitHub&style=social" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/v%C3%B5-ph%E1%BA%A1m-78588631b/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vophamk23&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+</p>
+
+<sub>⚡ Powered by passion for Embedded Systems & IoT</sub>
+<br>
+<sub>📧 Reach out: <a href="mailto:congvolv1@gmail.com">congvolv1@gmail.com</a></sub>
+
+</div>
 <p align="center">
   <i>⚡ Crafted with passion by <a href="https://github.com/vophamk23">Vo Pham</a></i>
   <br>
