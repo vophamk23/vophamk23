@@ -83,8 +83,7 @@
   <img src="https://img.icons8.com/?size=60&id=v6rX9QRN4DvW&format=png&color=000000" alt="Verilog"/>
   <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="Git"/>
   <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
-  <img src="https://img.icons8.com/?size=60&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Arduino"/>
-  <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" alt="MATLAB"/>
+
 </p>
 
 
