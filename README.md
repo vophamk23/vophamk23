@@ -12,7 +12,7 @@
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%8E%93+Computer+Engineering+at+HCMUT;%F0%9F%92%A1+Passionate+about+Embedded+and+IoT;%E2%9A%A1+Building+with+STM32+and+FPGA;%F0%9F%9A%80+Learning+and+Growing+Every+Day!" alt="Typing SVG" />
-</p> --> -->
+</p> --> 
 
 ## 📬 Contact Information
 <table>
