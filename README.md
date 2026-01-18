@@ -108,11 +108,11 @@
 **🛠️ Design & Simulation Tools:**  
 ![Proteus](https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge&logo=proteus&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![PSpice](https://img.shields.io/badge/PSpice_for_TI-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
 
 **🖥️ Development Environment:**  
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
