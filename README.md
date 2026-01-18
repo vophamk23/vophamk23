@@ -163,13 +163,6 @@
 
 **Dark Theme:**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dark Quote" />
-
-**Radical Theme:**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Radical Quote" />
-
-**Gruvbox Theme:**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Gruvbox Quote" />
-
 </details>
 
 </div>
@@ -197,11 +190,11 @@
 <br>
 <sub>📧 Reach out: <a href="mailto:congvolv1@gmail.com">congvolv1@gmail.com</a></sub>
 
-</div>
+<!-- </div>
 <p align="center">
   <i>⚡ Crafted with passion by <a href="https://github.com/vophamk23">Vo Pham</a></i>
   <br>
   <i>🚀 Computer Engineering @ HCMUT | Embedded Systems Enthusiast</i>
   <br>
   <sub>Thanks for stopping by! Feel free to connect 😊</sub>
-</p>
+</p> -->
