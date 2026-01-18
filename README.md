@@ -178,8 +178,6 @@
 
 <br />
 
----
-
 ## 🌐 Socials
 
 <p align="center">
@@ -215,7 +213,6 @@
   </a>
 </p>
 
----
 
 ## 💼 Skills
 
@@ -235,7 +232,7 @@
   <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" alt="MATLAB"/>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -283,7 +280,7 @@
 **📝 Documentation:**  
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -301,13 +298,11 @@
   </tr>
 </table>
 
----
 
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/vophamk23">vophamk23</a> | Thanks for visiting! 😊</i>
