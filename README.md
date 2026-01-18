@@ -19,9 +19,8 @@
     width="300"
     align="left"
     style="margin-right: 40px;"
-  />
-
-  <div style="margin-top: 30px;">
+  /> 
+  <div style="padding-left: 360px;">
     🎓 <b>University:</b>
     <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
     💻 <b>Major:</b> Computer Engineering<br><br>
