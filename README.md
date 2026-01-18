@@ -8,11 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=500&color=179FA3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8E%93+Student+at+HCMUT+-+VNUHCM;%F0%9F%92%BB+Embedded+Systems+%7C+Digital+Design+%7C+IoT;%F0%9F%94%A7+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%F0%9F%9A%80+Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-</p>
-
----
+</p> -->
 
 ## 📬 Contact Information
 
