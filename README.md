@@ -164,7 +164,6 @@
 </div>
 <br>
 <div align="center">
-  
 ### 🌐 Connect With Me
 <p>
   <a href="https://github.com/vophamk23">
@@ -177,7 +176,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=vophamk23&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 </p>
-
 <sub>⚡ Powered by passion for Embedded Systems & IoT</sub>
 <br>
 <sub>📧 Reach out: <a href="mailto:congvolv1@gmail.com">congvolv1@gmail.com</a></sub>
