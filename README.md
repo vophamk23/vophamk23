@@ -14,7 +14,6 @@
 ## 📬 Contact Information
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td width="50%" valign="top" style="border: none;">
         <p align="left">
@@ -30,7 +29,6 @@
         </p>
       </td>
     </tr>
-  </table>
 </div>
 
 
