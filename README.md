@@ -1,10 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center" style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=900&color=6366F1&center=true&vCenter=true&repeat=true&width=750&lines=%F0%9F%8E%93+Computer+Engineering+Student+at+HCMUT+-+Vietnam;%F0%9F%92%BB+Specializing+in+Embedded+Systems+%26+Digital+Design;%F0%9F%94%A7+Experienced+with+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%E2%9A%A1+Passionate+about+IoT+and+Hardware+Programming;%F0%9F%9A%80+Always+Learning+%26+Building+Cool+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&repeat=true&width=750&lines=%F0%9F%8E%93+Computer+Engineering+Student+at+HCMUT+-+Vietnam;%F0%9F%92%BB+Specializing+in+Embedded+Systems+%26+Digital+Design;%F0%9F%94%A7+Experienced+with+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%E2%9A%A1+Passionate+about+IoT+and+Hardware+Programming;%F0%9F%9A%80+Always+Learning+%26+Building+Cool+Projects!" alt="Typing SVG" />
 </p>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
