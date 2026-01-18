@@ -11,7 +11,7 @@
 <!-- <p align="center">
   <img width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 </p> -->
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500">
 ## 📬 Contact Information
 
 <p align="center">
