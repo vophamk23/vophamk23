@@ -1,5 +1,40 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vo+Pham!;Computer+Engineering+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=500&color=179FA3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8E%93+Student+at+HCMUT+-+VNUHCM;%F0%9F%92%BB+Embedded+Systems+%7C+Digital+Design+%7C+IoT;%F0%9F%94%A7+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%F0%9F%9A%80+Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+</p>
+
+---
+
+## 📬 Contact Information
+
+<p align="center">
+  📧 <b>Email:</b> congvolv1@gmail.com<br>
+  🏫 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT)</a><br>
+  🎯 <b>Major:</b> Computer Engineering<br>
+  🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT
+</p>
+
+
+
+
+
+
+
+
+
+
+
+[![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img align="left" width="390" height="290" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 
 <h1 align="center">Hi there 👋, I'm Vo Pham!</h1>
