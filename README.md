@@ -139,7 +139,6 @@
   </tr>
 </table>
 
-
 <!-- <div align="center">
   <img 
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
@@ -153,22 +152,16 @@
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500"> -->
 
-<div align="center">
-
 ## 💡 Developer's Daily Dose of Wisdom
 <br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dark Quote" />
 </details>
-
 </div>
-
 <br>
-
 <div align="center">
   
 ### 🌐 Connect With Me
-
 <p>
   <a href="https://github.com/vophamk23">
     <img src="https://img.shields.io/github/followers/vophamk23?label=Follow%20on%20GitHub&style=social" alt="GitHub"/>
@@ -177,7 +170,6 @@
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=vophamk23&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
 </p>
