@@ -88,20 +88,18 @@
 ![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge&logo=i2c&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-2196F3?style=for-the-badge&logo=spi&logoColor=white)
 
-**💾 Programming Languages:**  
+**💾 Programming Languages - Hardware Description Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2C5F2D?style=for-the-badge&logo=v&logoColor=white)
 
 **🌐 Web Technologies:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🔧 Hardware Description Languages:**  
-![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-2C5F2D?style=for-the-badge&logo=v&logoColor=white)
 
 **🛠️ Design & Simulation Tools:**  
 ![Proteus](https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge&logo=proteus&logoColor=white)
