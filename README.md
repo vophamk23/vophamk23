@@ -132,14 +132,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=vophamk23&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="vophamk23" width="100%"/>
     </td>
     <td>
-<p align="center"> 
-  <img 
-    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-    width="450" 
-    height="400"
-  >
-</p>
-      </p>
+    <p align="center"> 
+      <img 
+        src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+        width="450" 
+        height="450"
+      >
+    </p>
     </td>
   </tr>
 </table>
