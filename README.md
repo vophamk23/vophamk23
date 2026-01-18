@@ -8,24 +8,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=500&color=179FA3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8E%93+Student+at+HCMUT+-+VNUHCM;%F0%9F%92%BB+Embedded+Systems+%7C+Digital+Design+%7C+IoT;%F0%9F%94%A7+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%F0%9F%9A%80+Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-<!-- <p align="center">
-  <img width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-</p> -->
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500">
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500">
-    <p align="center"> 
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtcjJncG5wMjd5NDh1MWVkaG9oM2ZkMW4zcnBqcHl0N3NzeGczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9KU2KmTwzptMD6/giphy.gif" alt="Electronics" width="100%"/>
-      </p>
+
+  
 ## 📬 Contact Information
 
-<p align="center">
-  🎓 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br>
-  💻 <b>Major:</b> Computer Engineering<br>
-  🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT
-  📧 <b>Email:</b> congvolv1@gmail.com<br>
-</p>
+<table style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="left">
+        🎓 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
+        💻 <b>Major:</b> Computer Engineering<br><br>
+        🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT<br><br>
+        📧 <b>Email:</b> congvolv1@gmail.com
+      </p>
+    </td>
+    <td width="50%" valign="center">
+      <p align="right">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtcjJncG5wMjd5NDh1MWVkaG9oM2ZkMW4zcnBqcHl0N3NzeGczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9KU2KmTwzptMD6/giphy.gif" alt="Electronics" width="400"/>
+      </p>
+    </td>
+  </tr>
+</table>
+</table>
 
 
 
