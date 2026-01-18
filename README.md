@@ -155,24 +155,21 @@
 
 <div align="center">
 
-## 💭 Quote of the Day
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Inspiration%20Corner&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33"/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-    </td>
-  </tr>
-</table>
+### ✨ Random Developer Wisdom
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vophamk23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vophamk23?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
 
----
+<p align="center">
+  <a href="https://github.com/vophamk23">
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Vo%20Pham-blue?style=for-the-badge" alt="Made by Vo Pham"/>
+  </a>
+</p>
 
 <p align="center">
   <i>⚡ Crafted with passion by <a href="https://github.com/vophamk23">Vo Pham</a></i>
