@@ -15,10 +15,10 @@
 
 <table>
   <tr>
-    <td width="35%">
+    <td width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtcjJncG5wMjd5NDh1MWVkaG9oM2ZkMW4zcnBqcHl0N3NzeGczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9KU2KmTwzptMD6/giphy.gif" width="100%" alt="Electronics"/>
     </td>
-    <td width="5%"></td>
+    <!-- <td width="5%"></td> -->
     <td width="60%" valign="center">
       🎓 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
       💻 <b>Major:</b> Computer Engineering<br><br>
