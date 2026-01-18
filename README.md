@@ -1,12 +1,18 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%8E%93+Computer+Engineering+at+HCMUT;%F0%9F%92%A1+Passionate+about+Embedded+and+IoT;%E2%9A%A1+Building+with+STM32+and+FPGA;%F0%9F%9A%80+Learning+and+Growing+Every+Day!" alt="Typing SVG" />
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%8E%93+Computer+Engineering+at+HCMUT;%F0%9F%92%A1+Passionate+about+Embedded+and+IoT;%E2%9A%A1+Building+with+STM32+and+FPGA;%F0%9F%9A%80+Learning+and+Growing+Every+Day!" alt="Typing SVG" />
+</p>
 
 ## 📬 Contact Information
 <table>
