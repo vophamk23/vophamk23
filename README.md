@@ -15,37 +15,13 @@
 ## 📬 Contact Information
 
 <p align="center">
-  📧 <b>Email:</b> congvolv1@gmail.com<br>
-  🏫 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT)</a><br>
-  🎯 <b>Major:</b> Computer Engineering<br>
+  🎓 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br>
+  💻 <b>Major:</b> Computer Engineering<br>
   🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT
+  📧 <b>Email:</b> congvolv1@gmail.com<br>
 </p>
 
 
-
-
-
-
-
-
-
-
-
-[![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img align="left" width="390" height="290" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-
-<h1 align="center">Hi there 👋, I'm Vo Pham!</h1>
-<p align="center">
-  <h3 align="center">CE Student at HCMUT | Tech & Innovation Enthusiast</h3>
-</p>
-
-- 🎓 Student at [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/) (HCMUT) - VNUHCM
-- 💻 Major: **Computer Engineering**
-- 🔬 Focus: Embedded Systems, Digital Design & IoT
-- 📫 Email: **congvolv1@gmail.com**
-
-<br />
 
 ## 🌐 Socials
 
