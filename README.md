@@ -15,9 +15,9 @@
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500">
-<p align="center">
-  <img width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-</p>
+    <p align="center"> 
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtcjJncG5wMjd5NDh1MWVkaG9oM2ZkMW4zcnBqcHl0N3NzeGczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9KU2KmTwzptMD6/giphy.gif" alt="Electronics" width="100%"/>
+      </p>
 ## 📬 Contact Information
 
 <p align="center">
