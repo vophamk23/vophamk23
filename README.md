@@ -154,7 +154,7 @@
 
 ## 💡 Developer's Daily Dose of Wisdom
 <br>
-
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dark Quote" />
 </details>
 </div>
