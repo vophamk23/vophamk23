@@ -5,14 +5,7 @@
 
 <p align="center" style="margin-top: -10px;">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&repeat=true&width=750&lines=%F0%9F%8E%93+Computer+Engineering+Student+at+HCMUT+-+Vietnam;%F0%9F%92%BB+Specializing+in+Embedded+Systems+%26+Digital+Design;%F0%9F%94%A7+Experienced+with+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%E2%9A%A1+Passionate+about+IoT+and+Hardware+Programming;%F0%9F%9A%80+Always+Learning+%26+Building+Cool+Projects!" alt="Typing SVG" />
-</p>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=6366F1&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%8E%93+Computer+Engineering+at+HCMUT;%F0%9F%92%A1+Passionate+about+Embedded+and+IoT;%E2%9A%A1+Building+with+STM32+and+FPGA;%F0%9F%9A%80+Learning+and+Growing+Every+Day!" alt="Typing SVG" />
-</p> --> 
+</p> 
 
 ## 📬 Contact Information
 <table>
@@ -78,8 +71,12 @@
   <img src="https://img.icons8.com/?size=60&id=iEBcQcM9rnZ9&format=png&color=000000" alt="Assembly"/>
   <img src="https://img.icons8.com/?size=60&id=6kZdxe7t8OL1&format=png&color=000000" alt="VHDL"/>
   <img src="https://img.icons8.com/?size=60&id=v6rX9QRN4DvW&format=png&color=000000" alt="Verilog"/>
+  <img src="https://img.icons8.com/?size=60&id=EPbEfEa7o8CB&format=png&color=000000" alt="Proteus"/>
+  <img src="https://img.icons8.com/?size=60&id=WbhlkucPF3tZ&format=png&color=000000" alt="Altium Designer"/>
   <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="Git"/>
   <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
+  <img src="https://img.icons8.com/?size=60&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Arduino"/>
+  <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" alt="MATLAB"/>
 </p>
 
 ## 💻 Tech Stack
