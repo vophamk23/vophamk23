@@ -158,7 +158,6 @@
 ## 💡 Developer's Daily Dose of Wisdom
 <br>
 
-**Dark Theme:**
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dark Quote" />
 </details>
 
