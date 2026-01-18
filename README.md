@@ -140,6 +140,11 @@
 </table>
 
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500">
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
