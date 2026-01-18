@@ -9,8 +9,6 @@
 - 🎓 I'm a student at: [Ho Chi Minh city University of Technology](https://hcmut.edu.vn/) (HCMUT) - VNUHCM.
 
 - 💻 Major: Computer Engineering
- 
-- 🌱 Beyond coding, I’m into music, movies, and exploring local coffee shops.
   
 - 📫 Reach out to me via email: congvolv1@gmail.com
   
