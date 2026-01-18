@@ -19,7 +19,6 @@
     alt="Electronics"
     width="300"
     align="left"
-    hspace="20"
   />
 
   <div align="left">
