@@ -21,7 +21,8 @@
     align="left"
     style="margin-right: 40px;"
   />
-
+  
+  <div style="margin-top: 30px;">
   🎓 <b>University:</b>
   <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
 
