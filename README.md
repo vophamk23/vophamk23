@@ -1,12 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vo+Pham!;Computer+Engineering+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1800&pause=700&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vo+Pham!;Computer+Engineering+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2000&pause=400&color=179FA3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%8E%93+Student+at+HCMUT+-+VNUHCM;%F0%9F%92%BB+Embedded+Systems+%7C+Digital+Design+%7C+IoT;%F0%9F%94%A7+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%F0%9F%9A%80+Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=700&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%8E%93+Student+at+HCMUT+-+VNUHCM;%F0%9F%92%BB+Embedded+Systems+%7C+Digital+Design+%7C+IoT;%F0%9F%94%A7+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%F0%9F%9A%80+Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 
