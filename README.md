@@ -154,7 +154,13 @@
 <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500"> -->
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Random Dev Quote"
+  />
+</div>
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/vophamk23">vophamk23</a> | Thanks for visiting! 😊</i>
