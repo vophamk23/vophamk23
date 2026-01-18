@@ -163,9 +163,10 @@
 </details>
 </div>
 <br>
-<!-- <div align="center"> -->
+
   
 ### 🌐 Connect With Me
+<div align="center">
 <p>
   <a href="https://github.com/vophamk23">
     <img src="https://img.shields.io/github/followers/vophamk23?label=Follow%20on%20GitHub&style=social" alt="GitHub"/>
