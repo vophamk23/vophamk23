@@ -20,7 +20,7 @@
     </td>
     <!-- <td width="5%"></td> -->
     <td width="60%" valign="center">
-      🎓 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
+      🎓 <b>University:</b> <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNU</a><br><br>
       💻 <b>Major:</b> Computer Engineering<br><br>
       🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT<br><br>
       📧 <b>Email:</b> congvolv1@gmail.com
