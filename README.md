@@ -19,6 +19,7 @@
     alt="Electronics"
     width="300"
     align="left"
+    style="margin-right: 40px;"
   />
 
   <div align="left">
