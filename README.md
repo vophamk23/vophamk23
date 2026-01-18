@@ -71,12 +71,9 @@
   <img src="https://img.icons8.com/?size=60&id=iEBcQcM9rnZ9&format=png&color=000000" alt="Assembly"/>
   <img src="https://img.icons8.com/?size=60&id=6kZdxe7t8OL1&format=png&color=000000" alt="VHDL"/>
   <img src="https://img.icons8.com/?size=60&id=v6rX9QRN4DvW&format=png&color=000000" alt="Verilog"/>
-  <img src="https://img.icons8.com/?size=60&id=EPbEfEa7o8CB&format=png&color=000000" alt="Proteus"/>
   <img src="https://img.icons8.com/?size=60&id=WbhlkucPF3tZ&format=png&color=000000" alt="Altium Designer"/>
   <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="Git"/>
   <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
-  <img src="https://img.icons8.com/?size=60&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Arduino"/>
-  <img src="https://img.icons8.com/?size=60&id=54087&format=png&color=000000" alt="MATLAB"/>
 </p>
 
 ## 💻 Tech Stack
