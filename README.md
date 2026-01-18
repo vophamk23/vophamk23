@@ -13,23 +13,26 @@
 
 ## 📬 Contact Information
 
-<div>
+<div style="position: relative;">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtcjJncG5wMjd5NDh1MWVkaG9oM2ZkMW4zcnBqcHl0N3NzeGczbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9KU2KmTwzptMD6/giphy.gif"
     width="300"
     align="left"
-    style="margin-right: 40px;"
-  /> 
-  <div style="padding-left: 360px;">
-    🎓 <b>University:</b>
-    <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
-    💻 <b>Major:</b> Computer Engineering<br><br>
-    🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT<br><br>
-    📧 <b>Email:</b> congvolv1@gmail.com
-  </div>
+    style="margin-right: 20px;"
+  />
 
-  <br clear="left"/>
+  🎓 <b>University:</b>
+  <a href="https://hcmut.edu.vn/">Ho Chi Minh City University of Technology (HCMUT) - VNUHCM</a><br><br>
+
+  💻 <b>Major:</b> Computer Engineering<br><br>
+
+  🔬 <b>Focus:</b> Embedded Systems • Digital Design • IoT<br><br>
+
+  📧 <b>Email:</b> congvolv1@gmail.com
 </div>
+
+<br clear="left"/>
+
 
 
 
