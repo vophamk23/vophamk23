@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=vopham&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=;Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=2000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Vo+Pham!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center" style="margin-top: -10px;">
