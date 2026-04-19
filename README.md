@@ -125,20 +125,25 @@
 
 ## 📊 GitHub Stats
 
-<table style="width:100%;">
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophamk23&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="vophamk23" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=vophamk23&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="vophamk23" width="100%"/>
+    <td width="55%" valign="top" style="border: none; padding-right: 12px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vophamk23&bg_color=0d1117&title_color=0EA5E9&text_color=58a6ff&icon_color=0EA5E9&border_color=30363d&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages" 
+        width="100%"
+      />
+      <br/><br/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=vophamk23&bg_color=0d1117&title_color=0EA5E9&text_color=58a6ff&icon_color=0EA5E9&border_color=30363d&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Activity" 
+        width="100%"
+      />
     </td>
-    <td>
-    <p align="center"> 
+    <td width="45%" valign="middle" align="center" style="border: none;">
       <img 
         src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
-        width="450" 
-        height="550"
-      >
-    </p>
+        width="320"
+        style="border-radius: 12px;"
+      />
     </td>
   </tr>
 </table>
