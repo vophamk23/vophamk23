@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=6366F1&center=true&vCenter=true&repeat=true&width=750&lines=%F0%9F%8E%93+Computer+Engineering+Student+at+HCMUT+-+Vietnam;%F0%9F%92%BB+Specializing+in+Embedded+Systems+%26+Digital+Design;%F0%9F%94%A7+Experienced+with+STM32+%7C+FPGA+%7C+Arduino+%7C+ESP32;%E2%9A%A1+Passionate+about+IoT+and+Hardware+Programming;%F0%9F%9A%80+Always+Learning+%26+Building+Cool+Projects!" alt="Typing SVG" />
 </p>
 
----
 
 ## 📬 About Me
 
@@ -27,7 +26,6 @@
   </tr>
 </table>
 
----
 
 ## 🌐 Socials
 
@@ -58,8 +56,6 @@
   </a>
 </p>
 
----
-
 ## 💼 Skills
 
 <p align="center">
@@ -77,7 +73,7 @@
   <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -125,7 +121,6 @@
 ![Scilab](https://img.shields.io/badge/Scilab-003B57?style=for-the-badge&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -152,7 +147,6 @@
   </tr>
 </table>
 
----
 
 ## 💡 Developer's Daily Dose of Wisdom
 
@@ -160,7 +154,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
 
----
 
 <p align="center">
   <a href="https://github.com/vophamk23">
