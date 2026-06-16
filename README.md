@@ -67,7 +67,6 @@
   <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="CSS"/>
   <img src="https://img.icons8.com/?size=60&id=iEBcQcM9rnZ9&format=png&color=000000" alt="Assembly"/>
   <img src="https://img.icons8.com/?size=60&id=6kZdxe7t8OL1&format=png&color=000000" alt="VHDL"/>
-  <img src="https://img.icons8.com/?size=60&id=v6rX9QPfullN4DvW&format=png&color=000000" alt="Verilog"/>
   <img src="https://img.icons8.com/?size=60&id=WbhlkucPF3tZ&format=png&color=000000" alt="Altium Designer"/>
   <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="Git"/>
   <img src="https://img.icons8.com/?size=60&id=17842&format=png&color=000000" alt="Linux"/>
@@ -88,10 +87,6 @@
 ![UART](https://img.shields.io/badge/UART-FF6B6B?style=for-the-badge&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-4CAF50?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-2196F3?style=for-the-badge&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN-FF9800?style=for-the-badge&logoColor=white)
-![USB](https://img.shields.io/badge/USB-3F51B5?style=for-the-badge&logo=usb&logoColor=white)
-![Ethernet](https://img.shields.io/badge/Ethernet-00897B?style=for-the-badge&logoColor=white)
-![RS485](https://img.shields.io/badge/RS485-E91E63?style=for-the-badge&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
 **💾 Programming & HDL**
@@ -108,7 +103,6 @@
 
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
